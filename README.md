@@ -15,7 +15,7 @@ I'm a 24-year-old Software Quality Engineer based in India, and I'm passionate a
 
 - DARK is my favorite netflix series.
 - As a kid, I wanted to be an astronaut.
-- I love finding bugs 
+- I play Badmintion when I am stressed.
 
 <!--
 **aryavart1/aryavart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

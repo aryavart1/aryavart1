@@ -13,9 +13,9 @@ I'm a Software Quality Engineer based in India, and I'm passionate about creatin
 
 ## ✨ Fun Facts 
 
-- DARK is my favorite netflix series.
+- DARK is my favorite netflix serie and Barfi is my favourite Bollywood movie.
 - As a kid, I wanted to be an astronaut.
-- I play Badmintion when I am stressed.
+- I play Badmintion when I am stressed. 
 
 <!--
 **aryavart1/aryavart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

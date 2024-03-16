@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 I'm a Software Quality Engineer based in India, and I'm passionate about creating bug-free software experiences.
 
 ## 📦 Toolbox

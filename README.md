@@ -15,7 +15,7 @@ I'm a Software Quality Engineer based in India, and I'm passionate about creatin
 
 - DARK is my favorite netflix series.
 - As a kid, I wanted to be an Astronaut.
-- I play Badmintion when I am stressed. 
+- I play Badminton when I am stressed. 
 
 <!--
 **aryavart1/aryavart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

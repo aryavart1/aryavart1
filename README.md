@@ -11,7 +11,7 @@ I'm a Software Quality Engineer based in India, and I'm passionate about creatin
 
 **Others:** `Jira` `Scrum` `Confluence`
 
-## ✨ Fun Facts 
+## ✨ Fun Facts -
 
 - DARK is my favorite netflix series.
 - As a kid, I wanted to be an Astronaut.

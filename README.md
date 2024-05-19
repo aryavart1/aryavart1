@@ -14,7 +14,7 @@ I'm a Software Quality Engineer based in India, and I'm passionate about creatin
 ## ✨ Fun Facts 
 
 - DARK is my favorite netflix series.
-- As a kid, I wanted to be an Astronaut.
+- I love doing travel photography.
 - I play Badminton when I am stressed. 
 
 <!--

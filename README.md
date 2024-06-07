@@ -3,7 +3,7 @@ I'm a Software Quality Engineer based in India, and I'm passionate about creatin
 
 ## 📦 Toolbox
 
-**Testing:** `Selenuim` `UFT One` `Postman` `Playwright`
+**Testing:** `Selenuim` `UFT One` `Postman` `Nightwatch` `Playwright`
  
 **Version Control:** `Git` `GitLab` 
 
